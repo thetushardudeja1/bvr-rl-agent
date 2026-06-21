@@ -1,0 +1,41 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "▶ Generate Tacview replay (RUN_tacview)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/RUN_tacview.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Generate WEZ overlay (RUN_wez_tacview)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/RUN_wez_tacview.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Train Blue agent (RUN_train)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/RUN_train.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "▶ Evaluate win rate (RUN_eval)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/RUN_eval.py",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}

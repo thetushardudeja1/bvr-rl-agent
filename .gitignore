@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+runs/
+data_output/
+output_tacview/
+*.acmi
+*.log
+*.err
+.DS_Store
+Thumbs.db
+
+# Trained model weights (experiments/rir/*.zip, *.npz) ARE tracked on purpose
+# so the repo is runnable out of the box.

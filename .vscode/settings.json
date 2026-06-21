@@ -1,0 +1,11 @@
+{
+  "// note": "Run any RUN_*.py with the play button. These settings make the play button use the project folder as the working directory.",
+  "python.terminal.executeInFileDir": false,
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "terminal.integrated.cwd": "${workspaceFolder}",
+  "files.exclude": {
+    "**/__pycache__": true
+  },
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
+}

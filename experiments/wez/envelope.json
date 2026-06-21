@@ -1,0 +1,1978 @@
+{
+ "results": [
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 99,
+   "dur_s": 8.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 114,
+   "dur_s": 19.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 896,
+   "dur_s": 38.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 2509,
+   "dur_s": 53.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 3073,
+   "dur_s": 71.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 3276,
+   "dur_s": 81.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 3372,
+   "dur_s": 94.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 3393,
+   "dur_s": 112.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 36,
+   "dur_s": 15.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 746,
+   "dur_s": 49.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 6704,
+   "dur_s": 91.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 14753,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 21028,
+   "dur_s": 110.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 28237,
+   "dur_s": 110.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 36148,
+   "dur_s": 110.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 44604,
+   "dur_s": 110.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 281,
+   "dur_s": 29.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 10506,
+   "dur_s": 91.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 20597,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 29833,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 39454,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 49235,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 59097,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 69006,
+   "dur_s": 111.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 118,
+   "dur_s": 8.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 55,
+   "dur_s": 17.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 313,
+   "dur_s": 30.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 496,
+   "dur_s": 42.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 653,
+   "dur_s": 54.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 694,
+   "dur_s": 65.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 794,
+   "dur_s": 77.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 845,
+   "dur_s": 89.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 402,
+   "dur_s": 13.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 252,
+   "dur_s": 31.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 285,
+   "dur_s": 72.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 2767,
+   "dur_s": 108.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 5504,
+   "dur_s": 133.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 7590,
+   "dur_s": 169.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 17083,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 25163,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 231,
+   "dur_s": 19.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 3354,
+   "dur_s": 76.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 8548,
+   "dur_s": 112.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 16752,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 26261,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 36050,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 45941,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 55880,
+   "dur_s": 163.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 116,
+   "dur_s": 7.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 196,
+   "dur_s": 15.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 129,
+   "dur_s": 25.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 175,
+   "dur_s": 35.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 131,
+   "dur_s": 45.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 71,
+   "dur_s": 55.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 88,
+   "dur_s": 66.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 89,
+   "dur_s": 77.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 585,
+   "dur_s": 19.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 114,
+   "dur_s": 25.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 193,
+   "dur_s": 45.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 359,
+   "dur_s": 69.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 307,
+   "dur_s": 99.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 1854,
+   "dur_s": 152.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 4915,
+   "dur_s": 172.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 8672,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 84,
+   "dur_s": 16.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": true,
+   "miss_dist_m": 272,
+   "dur_s": 46.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 1125,
+   "dur_s": 123.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 7113,
+   "dur_s": 144.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 15630,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 25486,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 35439,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 250.0,
+   "hit": false,
+   "miss_dist_m": 45424,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 206,
+   "dur_s": 8.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 93,
+   "dur_s": 18.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 868,
+   "dur_s": 36.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 2332,
+   "dur_s": 55.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 2808,
+   "dur_s": 69.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 2996,
+   "dur_s": 82.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 3261,
+   "dur_s": 91.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 3110,
+   "dur_s": 109.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 17,
+   "dur_s": 14.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 289,
+   "dur_s": 43.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 5451,
+   "dur_s": 86.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 7472,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 17137,
+   "dur_s": 126.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 23770,
+   "dur_s": 126.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 31334,
+   "dur_s": 126.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 39538,
+   "dur_s": 126.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 283,
+   "dur_s": 24.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 9210,
+   "dur_s": 80.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 17813,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 26805,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 36340,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 46083,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 55924,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 65820,
+   "dur_s": 126.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 45,
+   "dur_s": 7.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 174,
+   "dur_s": 16.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 245,
+   "dur_s": 28.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 481,
+   "dur_s": 41.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 664,
+   "dur_s": 52.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 712,
+   "dur_s": 63.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 780,
+   "dur_s": 74.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 819,
+   "dur_s": 86.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 422,
+   "dur_s": 48.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 118,
+   "dur_s": 29.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 276,
+   "dur_s": 63.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 950,
+   "dur_s": 105.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 4342,
+   "dur_s": 127.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 6416,
+   "dur_s": 156.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 10308,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 20835,
+   "dur_s": 170.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 181,
+   "dur_s": 17.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 1960,
+   "dur_s": 76.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 7162,
+   "dur_s": 107.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 12662,
+   "dur_s": 172.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 23333,
+   "dur_s": 171.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 33067,
+   "dur_s": 171.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 42936,
+   "dur_s": 171.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 52863,
+   "dur_s": 171.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 92,
+   "dur_s": 7.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 14,
+   "dur_s": 15.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 159,
+   "dur_s": 24.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 175,
+   "dur_s": 34.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 18,
+   "dur_s": 43.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 37,
+   "dur_s": 53.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 65,
+   "dur_s": 64.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 186,
+   "dur_s": 74.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 579,
+   "dur_s": 16.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 188,
+   "dur_s": 23.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 248,
+   "dur_s": 41.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 333,
+   "dur_s": 63.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 340,
+   "dur_s": 89.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 274,
+   "dur_s": 130.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 3975,
+   "dur_s": 167.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 6546,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 84,
+   "dur_s": 14.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 254,
+   "dur_s": 40.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": true,
+   "miss_dist_m": 279,
+   "dur_s": 92.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 5353,
+   "dur_s": 141.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 12051,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 22606,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 32541,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 330.0,
+   "hit": false,
+   "miss_dist_m": 42520,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 161,
+   "dur_s": 8.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 48,
+   "dur_s": 17.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 823,
+   "dur_s": 35.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 2452,
+   "dur_s": 53.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 2974,
+   "dur_s": 63.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 2897,
+   "dur_s": 80.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 3066,
+   "dur_s": 92.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 3281,
+   "dur_s": 105.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 19,
+   "dur_s": 13.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 235,
+   "dur_s": 38.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 4548,
+   "dur_s": 84.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 6357,
+   "dur_s": 116.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 9080,
+   "dur_s": 171.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 20452,
+   "dur_s": 136.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 27754,
+   "dur_s": 136.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 35681,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 293,
+   "dur_s": 21.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 8306,
+   "dur_s": 73.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 15633,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 24338,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 33779,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 43481,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 53302,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 5000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 63187,
+   "dur_s": 137.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 315,
+   "dur_s": 7.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 239,
+   "dur_s": 16.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 264,
+   "dur_s": 27.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 487,
+   "dur_s": 40.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 645,
+   "dur_s": 50.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 647,
+   "dur_s": 61.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 750,
+   "dur_s": 72.5
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 781,
+   "dur_s": 84.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 465,
+   "dur_s": 42.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 224,
+   "dur_s": 27.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 190,
+   "dur_s": 57.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 275,
+   "dur_s": 93.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 2787,
+   "dur_s": 122.5
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 5538,
+   "dur_s": 147.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 7781,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 17324,
+   "dur_s": 176.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 180,
+   "dur_s": 16.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 842,
+   "dur_s": 76.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 6086,
+   "dur_s": 104.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 10981,
+   "dur_s": 150.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 20992,
+   "dur_s": 176.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 30667,
+   "dur_s": 176.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 40513,
+   "dur_s": 176.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 8000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 50430,
+   "dur_s": 176.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 297,
+   "dur_s": 7.0
+  },
+  {
+   "range_km": 20,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 42,
+   "dur_s": 14.5
+  },
+  {
+   "range_km": 30,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 47,
+   "dur_s": 23.5
+  },
+  {
+   "range_km": 40,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 274,
+   "dur_s": 32.5
+  },
+  {
+   "range_km": 50,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 195,
+   "dur_s": 42.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 15,
+   "dur_s": 52.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 172,
+   "dur_s": 62.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 180,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 222,
+   "dur_s": 72.5
+  },
+  {
+   "range_km": 10,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 541,
+   "dur_s": 35.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 260,
+   "dur_s": 22.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 184,
+   "dur_s": 39.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 302,
+   "dur_s": 59.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 347,
+   "dur_s": 83.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 229,
+   "dur_s": 115.5
+  },
+  {
+   "range_km": 70,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 3164,
+   "dur_s": 164.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 90,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 5622,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 10,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 17,
+   "dur_s": 13.5
+  },
+  {
+   "range_km": 20,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 151,
+   "dur_s": 37.0
+  },
+  {
+   "range_km": 30,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": true,
+   "miss_dist_m": 268,
+   "dur_s": 78.0
+  },
+  {
+   "range_km": 40,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 3904,
+   "dur_s": 139.0
+  },
+  {
+   "range_km": 50,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 10193,
+   "dur_s": 169.0
+  },
+  {
+   "range_km": 60,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 20189,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 70,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 30105,
+   "dur_s": 180.0
+  },
+  {
+   "range_km": 80,
+   "aspect": 0,
+   "alt_m": 11000.0,
+   "shooter_vel": 400.0,
+   "hit": false,
+   "miss_dist_m": 40076,
+   "dur_s": 180.0
+  }
+ ],
+ "rmax_km": {
+  "asp180_alt5km_v250": 20,
+  "asp180_alt5km_v330": 20,
+  "asp180_alt5km_v400": 20,
+  "asp180_alt8km_v250": 30,
+  "asp180_alt8km_v330": 30,
+  "asp180_alt8km_v400": 30,
+  "asp180_alt11km_v250": 80,
+  "asp180_alt11km_v330": 80,
+  "asp180_alt11km_v400": 80,
+  "asp90_alt5km_v250": 10,
+  "asp90_alt5km_v330": 20,
+  "asp90_alt5km_v400": 20,
+  "asp90_alt8km_v250": 30,
+  "asp90_alt8km_v330": 30,
+  "asp90_alt8km_v400": 40,
+  "asp90_alt11km_v250": 50,
+  "asp90_alt11km_v330": 60,
+  "asp90_alt11km_v400": 60,
+  "asp0_alt5km_v250": 10,
+  "asp0_alt5km_v330": 10,
+  "asp0_alt5km_v400": 10,
+  "asp0_alt8km_v250": 10,
+  "asp0_alt8km_v330": 10,
+  "asp0_alt8km_v400": 10,
+  "asp0_alt11km_v250": 20,
+  "asp0_alt11km_v330": 30,
+  "asp0_alt11km_v400": 30
+ },
+ "note": "non-evading target, co-altitude, straight flight"
+}

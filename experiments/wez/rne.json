@@ -1,0 +1,32 @@
+{
+ "rne_km": {
+  "asp180_alt5km_v250": 30,
+  "asp90_alt5km_v250": 10,
+  "asp0_alt5km_v250": 0,
+  "asp180_alt8km_v250": 40,
+  "asp90_alt8km_v250": 10,
+  "asp0_alt8km_v250": 10,
+  "asp180_alt11km_v250": 50,
+  "asp90_alt11km_v250": 20,
+  "asp0_alt11km_v250": 10,
+  "asp180_alt5km_v330": 20,
+  "asp90_alt5km_v330": 10,
+  "asp0_alt5km_v330": 0,
+  "asp180_alt8km_v330": 40,
+  "asp90_alt8km_v330": 10,
+  "asp0_alt8km_v330": 10,
+  "asp180_alt11km_v330": 50,
+  "asp90_alt11km_v330": 20,
+  "asp0_alt11km_v330": 10,
+  "asp180_alt5km_v400": 20,
+  "asp90_alt5km_v400": 10,
+  "asp0_alt5km_v400": 10,
+  "asp180_alt8km_v400": 40,
+  "asp90_alt8km_v400": 10,
+  "asp0_alt8km_v400": 10,
+  "asp180_alt11km_v400": 50,
+  "asp90_alt11km_v400": 20,
+  "asp0_alt11km_v400": 10
+ },
+ "note": "evading (drag) target \u2014 no-escape zone"
+}
