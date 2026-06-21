@@ -211,7 +211,7 @@ JSBSim 1.3.1 (6-DOF FDM) · NumPy 2 · pymap3d · Tacview (ACMI).
   author  = {Dudeja, Tushar},
   title   = {Sensor-Aware Reinforcement Learning for Beyond-Visual-Range Air Combat},
   year    = {2026},
-  url     = {https://github.com/thetushardudeja1/bvr-rl-agent}
+  url     = {https://github.com/thetushardudeja1/Beamrider}
 }
 ```
 
