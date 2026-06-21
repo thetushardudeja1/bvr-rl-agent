@@ -16,6 +16,19 @@
 
 ---
 
+## Demo
+
+<p align="center">
+  <img src="media/demo.gif" alt="BVR engagement with live WEZ overlay in Tacview" width="100%">
+</p>
+
+<p align="center">
+  <em>Blue (RL agent) beams Red's missiles into the radar Doppler notch while Red's launch zone — the coloured Weapon-Employment-Zone petal — is drawn live in the world and rotates with the aircraft.</em><br>
+  ▶ <a href="media/demo.mp4">Watch the full video (MP4)</a>
+</p>
+
+---
+
 ## Overview
 
 This project trains a **1-versus-1 Beyond-Visual-Range (BVR) air-combat agent**. A
